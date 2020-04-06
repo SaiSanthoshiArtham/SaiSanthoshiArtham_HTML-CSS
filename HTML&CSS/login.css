@@ -1,0 +1,81 @@
+.header{
+	height: 100%;
+	width: 100%;
+	background-color:#ffba2e;
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+}
+
+.form{
+	width:380px;
+	height: 480px;
+	position: relative;
+	margin: 6% auto;
+	background: #ffffff;
+	padding: 5px;
+	border: #000000;
+}
+body {font-family: TimesNewRoman;}
+form {border: 10px solid #000000;}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+button[type=onclick] {
+  background-color:#00aaff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius:10px; 
+}
+button[type=f]{
+	background-color:#0000ff;
+	font-size: 15px;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius:10px; 
+}
+button[type=g]{
+	background-color:#ff0000;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius:10px; 
+}
+button[type=e]{
+	background-color:#ffaa00;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  text-shadow: !important;
+  border-radius:10px; 
+}
+span.p {
+  float: left;
+  padding-top: 16px;
+}
+span.R{
+float: right;
+  padding-top: 16px;
+}
